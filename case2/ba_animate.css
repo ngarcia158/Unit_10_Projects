@@ -14,10 +14,7 @@
 
 /* Transition Styles */
 nav a{
-   background-image: url(ba_target.png);
-   align-content: center;
-   vertical-align: center;
-   background-repeat: no-repeat;
+   background: url(ba_target.png) center no-repeat;
    background-size: 0%;
    color: rgb(253, 240, 133);
    transition: background-size 0.3s;
