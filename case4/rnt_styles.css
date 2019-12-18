@@ -61,8 +61,8 @@ figure {
 }
 
 figure {
-   background-color: rgb(102, 102, 102);
-   width: 350px;
+   background: linear-gradient(to right, blue, gold);
+   width: 720px;
    text-align: center;
    border: 1px solid rgb(51, 51, 51);
    padding: 20px 0px;

@@ -114,6 +114,6 @@ div#bat{
 }
 div#butterfly{
    animation: playSprite 1s steps(33) infinite;
-   animation-delay: 3s;
+   animation-delay: 0s;
    animation: flyRight 6s cubic-bezier(0, 1, 0.73, 0) infinite;
 }
